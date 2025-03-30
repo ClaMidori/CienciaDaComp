@@ -8,9 +8,9 @@ As matérias cursadas e alguns materiais que me ajudaram a estudar para as mesma
     - https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC
 - Geometria Analítica e Vetores:
     - https://www.youtube.com/watch?v=pXtCSwIiRh4&list=PLB7242F99B0310710
-- Introdução à Ciência da Computação:
+- Introdução à Ciência da Computação
 - Lógica Matemática: 
     - https://www.youtube.com/watch?v=PltqUuwR9ec&list=PLEfwqyY2ox85ShbZ1O0fXmkUxavBmSNaK&index=1
-- Metodologia Científica:
+- Metodologia Científica
 
 Bons estudos!
