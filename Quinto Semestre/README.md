@@ -5,7 +5,7 @@ As matérias cursadas e alguns materiais que me ajudaram a estudar para as mesma
 - Banco de Dados
 - Engenharia de Software
 - Linguagens Formais e Autômatos
-    - https://www.youtube.com/playlist?list=PLqlIQgAFrQ14oDPZliY1-tyupYs0prBmW
+    - https://www.youtube.com/playlist?list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4
 - Redes de Computadores
 - Sistemas Operacionais:
     - https://www.youtube.com/playlist?list=PLhtZD20ADU45ADsAIxlNpFowP3iYvGXvJ
